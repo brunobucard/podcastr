@@ -5,6 +5,8 @@ Front-end de uma aplicação de podcast, chamado Podcastr.
 
 <img src="home.png" heigth="300" width="300">
 
+<img src="podcaster.png" heigth="300" width="300">
+
 Tecnologias:
 - ReactJS
 - NextJS
